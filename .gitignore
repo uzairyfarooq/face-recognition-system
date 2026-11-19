@@ -1,0 +1,11 @@
+.env
+__pycache__/
+models/
+known_faces/
+*.pkl
+*.json
+*.onnx
+*.weights
+face_detection_yunet_2023m*.onnx
+face_recognition_sface_2021*.onnx
+embeddings.pkl
